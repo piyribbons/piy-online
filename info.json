@@ -1,7 +1,7 @@
 {
     "name" : "PIY Online",
     "slug" : "piy-online",
-    "author" : "< href='https://piyribbons.com'>PIY RIBBONS</a>",
+    "author" : "<href='https://piyribbons.com'>PIY RIBBONS</a>",
     "version" : "1.0.0",
     "requires" : "5.0.0",
     "tested" : "7.*.*",
