@@ -1,0 +1,13 @@
+{
+    "name" : "PIY Online",
+    "slug" : "piy-online",
+    "author" : "< href='https://piyribbons.com'>PIY RIBBONS</a>",
+    "version" : "1.0.0",
+    "requires" : "5.0.0",
+    "tested" : "7.*.*",
+    "last_updated" : "2024-07-11",
+    "download_url" : "https://github.com/piyribbons/piy-online/archive/refs/tags/v1.1.0.zip",
+    "sections" : {
+        "description" : "PIY Online for WooCommerce."
+    }
+}
