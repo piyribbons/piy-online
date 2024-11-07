@@ -1,2 +1,2 @@
 # piy-online
-PIY Online for WooCommerce.
+PIY Online for WooCommerce...
